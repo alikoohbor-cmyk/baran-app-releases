@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/alikoohbor-cmyk/baran-app-releases/releases/latest/download/app-release.apk",
+  "changelog": "راه‌اندازی امضای رسمی نسخه‌ها (keystore ثابت) و فعال‌سازی واقعی آپدیت خودکار از گیت‌هاب"
+}
