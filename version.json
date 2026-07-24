@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
+  "versionCode": 5,
+  "versionName": "0.2.3",
   "apkUrl": "https://github.com/alikoohbor-cmyk/baran-app-releases/releases/latest/download/app-release.apk",
-  "changelog": "تأیید نهایی کارکرد آپدیت خودکار (چک، دانلود، نصب) از کانال عمومی انتشار"
+  "changelog": "رفع باگ: بعد از دانلود آپدیت، پرامپت نصب خودکار باز نمی‌شد (گیرنده‌ی سیستمی exported نبود)"
 }
