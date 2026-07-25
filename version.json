@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
+  "versionCode": 8,
+  "versionName": "0.2.6",
   "apkUrl": "https://github.com/alikoohbor-cmyk/baran-app-releases/releases/latest/download/app-release.apk",
-  "changelog": "حذف مرحله‌ی بی‌فایده‌ی کراپ بعد از ساخت کلاژ (رفتن مستقیم به مرحله‌ی لوگو)"
+  "changelog": "خطوط راهنمای اسنپ به مرکز تصویر (افقی/عمودی) هنگام جابجایی لوگو، جابجایی متن، و چرخش لوگو، همراه با ویبره‌ی تأییدی"
 }
